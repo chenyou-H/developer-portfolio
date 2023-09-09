@@ -9,16 +9,16 @@ const Education = () => {
       <section className="section pb-0 bg-gradient-info my-5">
         <Container>
           <div className="d-flex px-3">
-            <div>
+            {/* <div>
               <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-info">
                 <i className="ni ni-books text-info" />
               </div>
             </div>
             <div className="pl-4">
               <h4 className="display-3 text-white">Education</h4>
-            </div>
+            </div> */}
           </div>
-          <Row className="row-grid align-items-center">
+          {/* <Row className="row-grid align-items-center">
             {educationInfo.map((info) => {
               return (
                 <Col className="order-lg-1" lg="6" key={info.schoolName}>
@@ -26,7 +26,7 @@ const Education = () => {
                 </Col>
               );
             })}
-          </Row>
+          </Row> */}
         </Container>
         <div className="separator separator-bottom separator-skew zindex-100">
           <svg

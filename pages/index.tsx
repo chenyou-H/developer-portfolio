@@ -26,10 +26,10 @@ export default function Home({
       <Navigation />
       <Greetings />
       <Skills />
-      <Proficiency />
+      {/* <Proficiency /> */}
       <Education />
       <Experience />
-      <Feedbacks />
+      {/* <Feedbacks /> */}
       <Projects />
       {showContactUs ? <Contact /> : null}
       {/* <GithubProfileCard {...githubProfileData} /> */}

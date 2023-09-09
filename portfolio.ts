@@ -112,34 +112,34 @@ export const skillsSection: SkillsSectionType = {
   ],
 };
 
-// export const SkillBars: SkillBarsType[] = [
-//   {
-//     Stack: 'Frontend/Design', //Insert stack or technology you have experience in
-//     progressPercentage: '90', //Insert relative proficiency in percentage
-//   },
-//   {
-//     Stack: 'Backend',
-//     progressPercentage: '70',
-//   },
-//   {
-//     Stack: 'Programming',
-//     progressPercentage: '60',
-//   },
-// ];
+export const SkillBars: SkillBarsType[] = [
+  //   {
+  //     Stack: 'Frontend/Design', //Insert stack or technology you have experience in
+  //     progressPercentage: '90', //Insert relative proficiency in percentage
+  //   },
+  //   {
+  //     Stack: 'Backend',
+  //     progressPercentage: '70',
+  //   },
+  //   {
+  //     Stack: 'Programming',
+  //     progressPercentage: '60',
+  //   },
+];
 
-// export const educationInfo: EducationType[] = [
-//   {
-//     schoolName: 'Harvard University',
-//     subHeader: 'Master of Science in Computer Science',
-//     duration: 'September 2017 - April 2019',
-//     desc: 'Participated in the research of XXX and published 3 papers.',
-//     grade: 'Grade A',
-//     descBullets: [
-//       'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-//     ],
-//   },
-// ];
+export const educationInfo: EducationType[] = [
+  //   {
+  //     schoolName: 'Harvard University',
+  //     subHeader: 'Master of Science in Computer Science',
+  //     duration: 'September 2017 - April 2019',
+  //     desc: 'Participated in the research of XXX and published 3 papers.',
+  //     grade: 'Grade A',
+  //     descBullets: [
+  //       'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
+  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+  //     ],
+  //   },
+];
 
 export const experience: ExperienceType[] = [
   {
@@ -199,18 +199,18 @@ export const projects: ProjectType[] = [
   // },
 ];
 
-// export const feedbacks: FeedbackType[] = [
-//   {
-//     name: 'John Smith',
-//     feedback:
-//       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
-//   },
-//   {
-//     name: 'John Smith',
-//     feedback:
-//       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
-//   },
-// ];
+export const feedbacks: FeedbackType[] = [
+  //   {
+  //     name: 'John Smith',
+  //     feedback:
+  //       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+  //   },
+  //   {
+  //     name: 'John Smith',
+  //     feedback:
+  //       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+  //   },
+];
 
 // option to hide or show the ContactUs component
 export const showContactUs: boolean = false;
