@@ -32,7 +32,7 @@ export default function Home({
       <Feedbacks />
       <Projects />
       {showContactUs ? <Contact /> : null}
-      <GithubProfileCard {...githubProfileData} />
+      {/* <GithubProfileCard {...githubProfileData} /> */}
     </div>
   );
 }

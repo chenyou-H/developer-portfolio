@@ -26,7 +26,7 @@ const ExperienceCard = ({
           className="shadow-lg--hover mb-3 shadow border-0 text-center rounded"
         >
           <CardBody className="">
-            <img
+            {/* <img
               src={companyLogo}
               style={{
                 objectFit: 'cover',
@@ -41,7 +41,7 @@ const ExperienceCard = ({
               }}
               className="shadow mb-3"
               alt={companyLogo}
-            />
+            /> */}
             <CardTitle tag="h4" className="mb-2">
               {company}
             </CardTitle>
